@@ -1,0 +1,22 @@
+em {
+    color: #cc6600;
+    text_decoration: underline;
+}
+#new {
+    border-color: blue;
+    border-width: 3px;
+    border-style: dashed;
+    padding: 20px;
+    margin: 45px;
+}
+h1, h2 {
+    font-family: Verdana, Geneva, Arial, sans-serf;
+}
+h1{
+    font-size: 200%;
+    font-style: italic;
+    font-color: #007e7e;
+}
+h2 {
+    font-size: 120%;
+}
